@@ -5,8 +5,8 @@ This repository holds my programming projects done period of stanCode SC001 and 
 
 ## Project Source Code:
 * [Breakout Game](https://github.com/head63/StanCode_Projects/blob/main/Breakout%20Game/breakout.py)
- - animation & game designing
- - [demo video](https://youtu.be/wV_aT5t7_NM) 
+  - animation & game designing
+  - [demo video](https://youtu.be/wV_aT5t7_NM) 
 * [Hangman Game](https://github.com/head63/StanCode_Projects/blob/main/Hangman%20Game/hangman.py)
  * animation & game designing
  * [demo video](https://youtu.be/7f6p1ynsdkE) 
